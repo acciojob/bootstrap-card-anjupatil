@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+.card-group {
+  display: flex;
+  align-items: stretch;
+}
